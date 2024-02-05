@@ -16,7 +16,7 @@ class CFG:
     num_classes = 91
     
     batch_size = 16
-    epochs = 2
+    epochs = 1
     
     model_name = 'deit3_small_patch16_384_in21ft1k'
     num_patches = 576
